@@ -406,6 +406,14 @@ footer ul li a:hover {
   margin-top: 2rem;
 }
 
+.footer__socials a {
+  transition: var(--transition);
+}
+
+.footer__socials a:hover {
+  color: var(--color-primary);
+}
+
 .footer__copyright {
   text-align: center;
   margin-top: 4rem;
